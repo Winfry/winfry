@@ -29,45 +29,45 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WinfryAlex&show_icons=true&theme=tokyonight&count_private=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinfryAlex&layout=compact&langs_count=8&theme=tokyonight" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Winfry&show_icons=true&theme=tokyonight&count_private=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winfry&layout=compact&langs_count=8&theme=tokyonight" height="160em" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streaks
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WinfryAlex&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Winfry&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ### ⏱️ WakaTime (Coding Activity)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Winfry&theme=tokyonight&layout=compact" />
 </p>
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinfryAlex&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Winfry&theme=tokyo-night" />
 </p>
 
 ---
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WinfryAlex&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Winfry&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
 ### 💬 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/winfry-alex"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:winfryalex@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/WinfryAlex"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/winfry-Nyarangi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:winfrynyarangi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Winfry"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
