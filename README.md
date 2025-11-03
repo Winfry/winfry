@@ -1,23 +1,28 @@
-<!-- Typing SVG Intro -->
+<!-- ✨ WINFRY'S GITHUB PROFILE README ✨ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=👋%20Hey%20there,%20I'm%20Winfry!&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn&fontColor=ffffff" alt="header"/>
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Winfry!+👋;AI+%26+ML+Engineer+from+Kenya;Building+AI+for+Good+💡;Let's+Innovate+together+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer+from+Kenya;Building+AI+for+Good+💡;Let's+Innovate+together+🚀" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👩🏽‍💻 About Me
-💬 Passionate about AI, ML, and Computer Vision  
-🌍 Based in Nairobi, Kenya  
-🚀 Currently working on real-time ML projects (IoT + AI)  
-🎯 Goal: Build impactful AI systems that change lives  
+💬 Passionate about **AI**, **ML**, and **Computer Vision**  
+🌍 Based in **Nairobi, Kenya**  
+🚀 Currently working on **real-time ML projects (IoT + AI)**  
+🎯 Goal: **Build impactful AI systems that change lives**
 
 ---
 
 ### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,streamlit,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,fastapi,streamlit,aws,git,github,vscode,linux,opencv,postgresql" />
 </p>
 
 ---
@@ -38,9 +43,8 @@
 ---
 
 ### ⏱️ WakaTime (Coding Activity)
-<!-- Replace YOUR_USERNAME with your actual WakaTime username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact" />
 </p>
 
 ---
@@ -68,4 +72,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="footer"/>
+</p>
+
 ⭐️ *Inspired by modern AI devs building for humanity.*
+
