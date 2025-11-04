@@ -66,7 +66,7 @@
 
 ### ⏱️ **WakaTime (Coding Activity)**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=winfry&theme=tokyonight&hide_border=true&layout=compact" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Winfry&theme=tokyonight&hide_border=true&layout=compact" height="200em"/>
 </p>
 
 ---
